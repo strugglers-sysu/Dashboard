@@ -35,7 +35,7 @@
   - 9.2 XX短视频
 
 - X1 meeting-records
-  - inception meeting (yy/mm/dd)
+  - [inception meeting (2019/5/5)](meeting-records/inception_meeting.md)
 - X2 KANBAN
 - X3 auditing-records
 - X4 Tech/Work Report
