@@ -5,11 +5,11 @@
 <br>我们打算做的关于挣闲钱的小程序：在技术上，微信小程序越来越受人重视，开发成本也并不高；在功能上包括问卷，跑腿等任务。力求将小程序做到符合多方利益，努力为社会提供一个有利无弊的可靠的大学生赚零钱平台。在这种背景下，我们力所能及地进行了竞品调研，对线上找到的较优秀的产品做了体验和详尽分析，线下也对附近的商圈做了实地的考察，并亲测产品的可用性。
 ## 竞品分析报告
 ### 竞品列表
-![](https://github.com/strugglers-sysu/Dashboard/blob/master/documents/images/jpfx1.png)
+![](images/jpfx1.png)
 ### 特色服务分析
-![](https://github.com/strugglers-sysu/Dashboard/blob/master/documents/images/jpfx2.png)
-![](https://github.com/strugglers-sysu/Dashboard/blob/master/documents/images/jpfx3.png)
-![](https://github.com/strugglers-sysu/Dashboard/blob/master/documents/images/jpfx4.png)
+![](images/jpfx2.png)
+![](images/jpfx3.png)
+![](images/jpfx4.png)
 ### 交互设计与技术分析
 新东西总要有些特色，但是特色总归是要解决用户的某种需求。三款APP首先都在信息可靠性上下了功夫。其次，兼职猫借助庞大的用户基数，发展增加用户体验，增强用户粘性的功能；微兼职的众包模式不是专门针对大学生的创新，用户范围广泛；同学帮帮是花样最多的APP，“靠谱”是做到让大学生放心，因此，深度介入用工过程，也为建立人才库打下基础，其中的社交平台更是同学帮帮“粘住”用户的法宝。但是，还是有些东西，他们都没有去做，就是兼职大学生安全保障问题。
 ### 商业模式分析
