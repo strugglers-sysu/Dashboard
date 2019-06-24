@@ -8,7 +8,7 @@
 - 6、Requirement specification（需求规格说明书）
 
   - 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](documents/06_1_usecase_diagram.md)
-  - 6.2 [Use Cases（用例+活动图）](documents/06_2_use_casas.md)
+  - 6.2 [Use Cases（用例+活动图）](documents/06_2_use_cases.md)
   - 6.3 [Domain Models（领域模型）](documents/06_3_domain_models.md)
   - 6.4 [State Models（状态模型）](documents/06_4_state_models.md)
   - 6.5 [System Sequence Diagrams（功能模型）](documents/06_5_system_sequence_diagrams.md)
