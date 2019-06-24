@@ -36,10 +36,10 @@
 
 - X1 meeting-records
   - [inception meeting (2019/3/18)](meeting-records/inception_meeting.md)
-  - inception meeting (2019/3/25)
-  - [inception meeting (2019/4/16)](meeting-records/first-meeting-mind.jpg)
-  - [inception meeting (2019/5/20)](meeting-records/second-meeting-mind.jpg)
-  - inception meeting (2019/5/20)
+  - Iteration meeting 1 (2019/3/25)
+  - [Iteration meeting 2 (2019/4/16)](meeting-records/first-meeting-mind.jpg)
+  - [Iteration meeting 3 (2019/5/20)](meeting-records/second-meeting-mind.jpg)
+  - Iteration meeting 4 (2019/5/20)
 - X2 KANBAN
 - X3 auditing-records
 - X4 Tech/Work Report
