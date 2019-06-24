@@ -13,7 +13,7 @@
   - 6.4 [State Models（状态模型）](documents/06_4_state_models.md)
   - 6.5 [System Sequence Diagrams（功能模型）](documents/06_5_system_sequence_diagrams.md)
   - 6.6 [Supplementary Requirements（补充需求）](documents/06_6_supplementary_requirements.md)
-
+  
 - 7、Design（设计说明书）
 
   - 7.1 UI design（界面设计）
