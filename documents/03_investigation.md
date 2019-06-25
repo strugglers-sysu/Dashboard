@@ -28,15 +28,16 @@
 - 最后，大学生兼职过程中的人身安全问题，到现在为止，是没有人为此买单的，只是有人提出了“为所有兼职大学生买一份人身保险”的理想口号。
 
 
-### 附录
-图1
+## 附录
+兼职猫
+![](images/f1.1.jpg)
+![](images/f1.2.jpg)
+![](images/f1.3.jpg)
+![](images/f1.4.jpg)
+![](images/f1.5.jpg)
+![](images/f1.6.jpg)
+问卷星
 ![](images/wjx1.png)
-
-图2
 ![](images/wjx2.png)
-
-图3
 ![](images/wjx3.png)
-
-图4
-![](images/wjx4)
+![](images/wjx4.png)
