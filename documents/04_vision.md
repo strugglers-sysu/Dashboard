@@ -40,7 +40,7 @@ earn-money微信小程序的开发主要是为大学生们在上学期间，提�
 下面是一些竞品项目，更多关于更具体竞品分析在<https://strugglers-sysu.github.io/Dashboard/documents/03_investigation.html>
 <br>兼职猫:
 <br>![](images/jp1.png)
-<br>微兼职：
-<br>![](images/jp2(2).png)
+<br>问卷星：
+<br>![](images/jp2(3).png)
 <br>同学帮帮：
 <br>![](images/jp3.png)
