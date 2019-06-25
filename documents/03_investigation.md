@@ -42,7 +42,7 @@
 ![](images/f2.4.png)
 ![](images/f2.5.png)
 同学帮帮
-![](images/f3.1.png)
-![](images/f3.2.png)
-![](images/f3.3.png)
-![](images/f3.4.png)
+![](images/f3.1(2).jpg)
+![](images/f3.2(2).jpg)
+![](images/f3.3(2).jpg)
+![](images/f3.4(2).jpg)
