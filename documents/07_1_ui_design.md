@@ -14,6 +14,6 @@
 ### 个人信息
 ![](images/ui5.jpg)
 ### 发布问卷
-![](images/ui3.jpg)
+![](images/ui6.png)
 ### 任务列表
 ![](images/ui1.jpg)
