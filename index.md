@@ -43,7 +43,7 @@
 - X2 KANBAN
 - X3 auditing-records
 - X4 Tech/Work Report
-  - 学号-title
+  - [16340148-微信小程序设计规范](https://blog.csdn.net/RRlalala/article/details/93784329)
 - X5 Final Report
   - 学号-title
   - 小组分工与贡献率说明
