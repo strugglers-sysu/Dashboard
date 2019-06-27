@@ -26,4 +26,4 @@
 ### 主场景下商家活动图
 ![](./../use-cases/hdt1.jpg)
 ### 主场景下学生活动图
-![](./../use-cases/hdt2.jpg)
+![](./../use-cases/hdt2(2).jpg)
