@@ -21,5 +21,20 @@
 - 完成任务，领取“闲钱币”：学生在完成相应任务后，可以领取该任务作为悬赏的“闲钱币”。
 <br>
 
+## 主场景下的用户活动图
+![](./../use-cases/hdt1.jpg)
+
+## 用例图
+![](./../use-cases/zxq-use-case.png)
+
+## 用户注册流程图
+![](./../use-cases/system_sequence9.png)
+
+## 用户登录流程图
+![](./../use-cases/system_sequence10.png)
+
+## 用户发布任务流程图
+![](./../use-cases/system_sequence6.png)
+
 ## 类图
 ![](images/ClassDiagram.png)
