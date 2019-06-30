@@ -47,6 +47,7 @@
   - [16340148-微信小程序设计规范](https://blog.csdn.net/RRlalala/article/details/93784329)
   - [16340200-微信小程序通过数字实现循环](https://blog.csdn.net/qw1998/article/details/93894029)
   - [16340200-微信小程序的数据跳转](https://blog.csdn.net/qw1998/article/details/93892506)
+  - [16340216-小程序单选功能实现](https://blog.csdn.net/hz2217/article/details/93096020)
 - X5 Final Report
   - [16340148-liuhq7](documents/final_report/16340148_liuhq7.md)
   - [16340200-qw1998](documents/final_report/16340200_qw1998.md)
