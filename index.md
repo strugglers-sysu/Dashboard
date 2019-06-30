@@ -31,7 +31,7 @@
 
 - 9、成品展示
 
-  - 9.1 [成品展示](documents/dispaly.md)
+  - 9.1 [成品展示](documents/display.md)
 
 - X1 meeting-records
   - [inception meeting (2019/3/18)](meeting-records/inception_meeting.md)
