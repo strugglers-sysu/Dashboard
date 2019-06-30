@@ -49,10 +49,12 @@
   - [16340216-小程序单选功能实现](https://blog.csdn.net/hz2217/article/details/93096020)
   - [小程序云开发初体验](https://blog.csdn.net/For_course/article/details/94363269)
   - [微信小程序云函数的使用](https://blog.csdn.net/For_course/article/details/94363371)
+  - [微信小程序自定义组件的开发](https://blog.csdn.net/a249648157/article/details/94366247)
 
 - X5 [Final Report](documents/final_report/final_report.md)
   - [16340148-liuhq7](documents/final_report/16340148_liuhq7.md)
   - [16340200-qw1998](documents/final_report/16340200_qw1998.md)
   - [16340216-wjh624](documents/final_report/16340216_wjh624.md)
   - [16340172-jozeou](documents/final_report/16340172_jozeou.md)
+  - [16340171-nieboye](documents/final_report/16340171_nieboye.md)
 
