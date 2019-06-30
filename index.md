@@ -42,7 +42,7 @@
   - [Iteration meeting 4 (2019/6/16)](meeting-records/fourh-meeting-mind.jpg)
   - [Iteration meeting 5 (2019/6/22)](meeting-records/fifth-meeting-mind.jpg)
 - X2 KANBAN
-- X3 auditing-records
+- X3 [auditing-records](documents/auditing-records.md)
 - X4 Tech/Work Report
   - [16340148-微信小程序设计规范](https://blog.csdn.net/RRlalala/article/details/93784329)
   - [16340200-微信小程序通过数字实现循环](https://blog.csdn.net/qw1998/article/details/93894029)
@@ -51,7 +51,7 @@
   - [小程序云开发初体验](https://blog.csdn.net/For_course/article/details/94363269)
   - [微信小程序云函数的使用](https://blog.csdn.net/For_course/article/details/94363371)
 
-- X5 Final Report
+- X5 [Final Report](documents/final_report/final_report.md)
   - [16340148-liuhq7](documents/final_report/16340148_liuhq7.md)
   - [16340200-qw1998](documents/final_report/16340200_qw1998.md)
   - [16340216-wjh624](documents/final_report/16340216_wjh624.md)
