@@ -40,7 +40,7 @@
   - [Iteration meeting 2 (2019/5/20)](meeting-records/second-meeting-mind.jpg)
   - [Iteration meeting 3 (2019/6/1)](meeting-records/third-meeting-mind.jpg)
   - [Iteration meeting 4 (2019/6/16)](meeting-records/fourh-meeting-mind.jpg)
-  - [Iteration meeting 5 (2019/6/30)](meeting-records/fifth-meeting-mind.jpg)
+  - [Iteration meeting 5 (2019/6/22)](meeting-records/fifth-meeting-mind.jpg)
 - X2 KANBAN
 - X3 auditing-records
 - X4 Tech/Work Report
