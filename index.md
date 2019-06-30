@@ -47,5 +47,5 @@
   - [16340148-微信小程序设计规范](https://blog.csdn.net/RRlalala/article/details/93784329)
 - X5 Final Report
   - [16340148-liuhq7](documents/final_report/16340148_liuhq7.md)
-  - [16340200-qw1998](documents/final_report/16340148_qw1998.md)
+  - [16340200-qw1998](documents/final_report/16340200_qw1998.md)
 
