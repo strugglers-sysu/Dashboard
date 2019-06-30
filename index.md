@@ -31,8 +31,7 @@
 
 - 9、成品展示
 
-  - 9.1 XX短视频
-  - 9.2 XX短视频
+  - 9.1 [成品展示](documents/dispaly.md)
 
 - X1 meeting-records
   - [inception meeting (2019/3/18)](meeting-records/inception_meeting.md)
