@@ -48,8 +48,8 @@
   - [16340200-微信小程序通过数字实现循环](https://blog.csdn.net/qw1998/article/details/93894029)
   - [16340200-微信小程序的数据跳转](https://blog.csdn.net/qw1998/article/details/93892506)
   - [16340216-小程序单选功能实现](https://blog.csdn.net/hz2217/article/details/93096020)
-  - [小程序云开发初体验](https://blog.csdn.net/For_course/article/details/94363269)
-  - [微信小程序云函数的使用](https://blog.csdn.net/For_course/article/details/94363371)
+  - [16340172-小程序云开发初体验](https://blog.csdn.net/For_course/article/details/94363269)
+  - [16340172-微信小程序云函数的使用](https://blog.csdn.net/For_course/article/details/94363371)
   - [微信小程序自定义组件的开发](https://blog.csdn.net/a249648157/article/details/94366247)
 
 - X5 [Final Report](documents/final_report/final_report.md)
